@@ -11,7 +11,7 @@ element.innerHTML = "Teresa Abraham" ;
 var img = document.getElementById('madi');
 
 madi.onclick = function () {
-   madi.margin.left = '100px'; 
+   madi.style.marginleft = '100px'; 
     
 };
 
