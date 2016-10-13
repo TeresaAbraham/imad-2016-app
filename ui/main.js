@@ -10,9 +10,9 @@ element.innerHTML = "Teresa Abraham" ;
 
 var img = document.getElementById('madi');
 
-madi.onclick = function () {
+img.onclick = function () {
     
-   madi.style.marginleft = '100px'; 
+   img.style.marginleft = '100px'; 
     
 };
 
