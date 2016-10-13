@@ -8,10 +8,10 @@ element.innerHTML = "Teresa Abraham" ;
 
 // Move the image
 
-var img = document.getElementById('img');
+var img = document.getElementById('madi');
 
-img.onclick = function () {
-   img.margin.left = '100px'; 
+madi.onclick = function () {
+   madi.margin.left = '100px'; 
     
 };
 
